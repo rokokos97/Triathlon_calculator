@@ -1,0 +1,19 @@
+{
+  "name": "triathlon_calculator",
+  "version": "1.0.0",
+  "description": "This single page app calculate race time for triathletes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokokos97/Triathlon_calculator.git"
+  },
+  "author": "Rostyslav Lisovyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokokos97/Triathlon_calculator/issues"
+  },
+  "homepage": "https://github.com/rokokos97/Triathlon_calculator#readme"
+}
